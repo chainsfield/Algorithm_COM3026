@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include <math.h>
 
@@ -10,20 +11,25 @@ void primeCheck(int n);
 
 int main() {
     int ex[201]= { 0, };
+
     srand((int)time(NULL));
     for(int i = 0; i < 200; i++) ex[i] = rand() % 1000;
 
-    mergeSort(ex, 0, 199); // 3
+    mergeSort(ex, 0, 199);
     Top100(ex, 200); // 1
     multiple(ex, 100); // 2
-    primeCheck(rand());
+    for(int i = 0; i < 200 ; i++) printf("%d ", ex[i]); // 3
+    primeCheck(rand()); // 4
+
+    return 0;
 }
 
 // 1번 문제 무작위로 정수 값을 100개 이상 포함하고 있는 자료에서 상위 100개의 큰 수를 찾아 출력하기
 #define TOP 100
 void Top100(int array[], int len) {
     mergeSort(array, 0, len - 1); // 내림차순
-    for (int i = 0; i < TOP; i++) printf("%d", array[i]);
+    for (int i = 0; i < TOP; i++) printf("%d ", array[i]);
+    printf("\n");
 }
 
 // 2번 문제 2. 무작위로 정수 값을 포함하고 있는 자료에서 2, 3, 5, 7의 배수 출력하기
@@ -36,6 +42,7 @@ void multiple(int array[], int n) {
             if (array[j] % prime[i] == 0) printf(" %d", array[j]);
         }
     }
+    printf("\n\n");
 }
 
 // 3번 문제 숫자 값을 정렬하는 프로그램
@@ -69,6 +76,6 @@ void primeCheck(int n) {
             break;
         }
     }
-    if(check == 0) printf("%d는 소수입니다!", n);
-    else printf("%d는 소수가 아닙니다.\n%d로 나누어떨어집니다.", n, i);
+    if(check == 0) printf("\n\n%d는 소수입니다!", n);
+    else printf("\n\n%d는 소수가 아닙니다. %d로 나누어떨어집니다.", n, i);
 }
