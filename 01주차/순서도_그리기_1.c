@@ -19,7 +19,10 @@ void Top100(int array[], int len) {
 // 2번 문제 2. 무작위로 정수 값을 포함하고 있는 자료에서 2, 3, 5, 7의 배수 출력하기
 // (2, 6, 4, 18, 21, 8, 25인 경우: 2의 배수 5, 3의 배수 3, etc)
 void multiple(int array[], int n){
-    
+    int prime[5] = {2, 3, 5, 7};
+    for(int i = 0; i < n; i++){
+        if(array[i] % 2 == 1) 
+    }
 }
 
 
