@@ -4,6 +4,7 @@
 
 #define MAX_LIST 1000000
 #define SWAP(a,b,c) ((a=b), (b=c), (c=a))
+
 int binarySearch(int list[], int num, int first, int last);
 void mergeSort(int data[], int p, int r);
 void merge(int data[], int p, int q, int r);
@@ -38,10 +39,10 @@ int main() {
     loc4 = binarySearch(array1, key, 0, MAX_LIST - 1);
     clock_t end4 = clock();
     
-    printf("������ ���� Ž�� �ҿ�ð�: %lf, �ε���: %d\n", (double)(end1 - start1) / CLOCKS_PER_SEC, loc1);
-    printf("������ ���� Ž�� �ҿ�ð�: %lf, �ε���: %d\n", (double)(end2 - start2) / CLOCKS_PER_SEC, loc2);
-    printf("���� ���� Ž�� �ҿ�ð�: %lf, �ε���: %d\n", (double)(end3 - start3) / CLOCKS_PER_SEC, loc2);
-    printf("���� ���� Ž�� �ҿ�ð�: %lf, �ε���: %d\n", (double)(end4 - start4) / CLOCKS_PER_SEC, loc2);
+    printf("비정렬 순차 탐색 소요시간: %lf, 인덱스: %d\n", (double)(end1 - start1) / CLOCKS_PER_SEC, loc1);
+    printf("비정렬 이진 탐색 소요시간: %lf, 인덱스: %d\n", (double)(end2 - start2) / CLOCKS_PER_SEC, loc2);
+    printf("정렬 순차 탐색 소요시간: %lf, 인덱스: %d\n", (double)(end3 - start3) / CLOCKS_PER_SEC, loc2);
+    printf("정렬 이진 탐색 소요시간: %lf, 인덱스: %d\n", (double)(end4 - start4) / CLOCKS_PER_SEC, loc2);
 
     return 0;
 }
@@ -59,7 +60,7 @@ int binarySearch(int list[], int num, int first, int last) {
         return binarySearch(list, num, mid + 1, last);
 }
 
-void mergeSort(int data[], int p, int r) { // �迭�� �߰� �ɰ���
+void mergeSort(int data[], int p, int r) { // 배열을 잘게 쪼개기
     int q;
     if (p < r) {
         q = (p + r) / 2;
@@ -69,14 +70,14 @@ void mergeSort(int data[], int p, int r) { // �迭�� �߰� �ɰ���
     }
 }
 
-void merge(int data[], int p, int q, int r) { // �ɰ� �迭�� ������� �� �迭�� �ֱ�
+void merge(int data[], int p, int q, int r) { // 쪼갠 배열을 순서대로 새 배열에 넣기
     int i = p, j = q + 1, k = p;
-    while (i <= q && j <= r) { // ���� ������ �ϳ��� �ӽ� �迭�� �ֱ�
+    while (i <= q && j <= r) { // 작은 순으로 하나씩 임시 배열에 넣기
         if (data[i] <= data[j]) tmp[k++] = data[i++];
         else tmp[k++] = data[j++];
     }
-    while (i <= q) tmp[k++] = data[i++]; // ������
-    while (j <= r) tmp[k++] = data[j++]; // �ϳ� ó��
+    while (i <= q) tmp[k++] = data[i++]; // 남은거
+    while (j <= r) tmp[k++] = data[j++]; // 하나 처리
     for (int a = p; a <= r; a++) data[a] = tmp[a];
 }
 
