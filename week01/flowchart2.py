@@ -1,7 +1,10 @@
+print('데이터 셋을 입력해주세요.')
 data = list(map(int, input().split()))
-target = int(input())
+target = int(input('찾는 데이터: '))
+
 low = 0
 high = len(data) - 1
+
 while True:
     mid = (low + high) // 2
     if target < data[mid]:
