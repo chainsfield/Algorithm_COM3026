@@ -2,10 +2,6 @@
 #include<stdlib.h>
 #include<string.h>
 #include<time.h>
-#pragma warning (disable : 4996)
-
-#define TRUE 1
-#define FALSE 0
 
 #define DIE_SIMULATION 1  // 주사위 게임 = 1
 #define GAME_SHOW 2  // 몬티홀 문제 = 2 
@@ -123,7 +119,7 @@ void gameShow() {
 		nChoiceDoor = rand() % 3;
 		if (nPrizeDoor == nChoiceDoor) nChoiceCount++;
 	}
-	
+
 	printf("\n");
 	printf("\t  CHOICE >> %.2lf %%\n\n", (double)nChoiceCount / 1000.0);
 
@@ -257,9 +253,11 @@ void displayOX(char strNumber[]) {
 	printf("\n");
 }  // display
 
+/*
 void playOX(char strNumber[]) {
 	strNumber[nNum] = player;
 }  // playOX
+*/
 
 char wincheck(char strNumber[]) {
 	char chReturn = '\0';
