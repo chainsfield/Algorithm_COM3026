@@ -13,12 +13,15 @@
 int displayMainMenu();  // 메인메뉴 창
 void dieSimulation();  // 주사위 게임 함수
 void gameShow();  // 몬티홀 문제 함수
-void highLowGame();  // 하이로우 게임 함수
-void wordGame();
-void oXGame();
+void highLowGame();  // 하이로우 함수
+void wordGame();  // 행맨 함수
+
+/*
+void oxGame();  // 틱택토 함수
 void displayOX(char strNumber[]);
 void playOX(char strNumber[], char player);
 char winCheck(char stNumber[]);
+*/
 
 int main() {
 	int nSelectedMainMenu, biterationPlag = 1;
@@ -43,9 +46,11 @@ int main() {
 		case WORD_GAME:  // 4가 입력되면 행맨
 			wordGame();  // 행맨함수 실행
 			break;  // switch 문 종료
-		case OX_GAME:  // 5가 입력되면 ~~
-			oxGame();  // ~~함수 실행
+		/*
+		case OX_GAME:  // 5가 입력되면 tictactoe
+			oxGame();  // tictactoe 함수 실행
 			break;  // switch 문 종료
+		*/
 		case EXIT:  // 0이 입력되면
 			biterationPlag = 0;  // False로 switch문 종료
 			break;  // switch 문 종료
@@ -59,7 +64,7 @@ int main() {
 	return 0;
 }
 
-int displayMainMenu() {// 메인메뉴 함수
+int displayMainMenu() {  // 메인메뉴 함수
 	int nMainMenu;  // 메뉴 숫자 변수
 
 	printf("\t============================\n");
@@ -146,7 +151,7 @@ void highLowGame() {  // 하이로우게임 함수
 	int nCount = 0;
 	nRandomNumber = rand() % 100 + 1;  // 난수 생성
 
-	while (TRUE) {
+	while (1) {
 		system("cls");
 		printf("\n\n");
 		printf("\t============================\n");
@@ -193,7 +198,7 @@ void wordGame() {  // 만들 예정
 	for (i = 0; i < nLength; i++) strInput[i] = '-';
 	strInput[nLength] = '\0';
 
-	while (TRUE) {
+	while (1) {
 		system("cls");
 		printf("\n\n");
 		printf("\t============================\n");
@@ -201,8 +206,10 @@ void wordGame() {  // 만들 예정
 		printf("\t----------------------------\n");
 		printf("\n");
 		printf("\t  ");
+
 		for (i = 0; i < nLength; i++) printf("%c ", strInput[i]);
 		printf("\n\n\t  ");
+
 		for (i = 0; i < 27; i++) {
 			printf("%c ", strAlphabet[i]);
 			if (i % 8 == 7) printf("\n\n\t  ");
@@ -221,13 +228,14 @@ void wordGame() {  // 만들 예정
 	}  // while
 } //wordGame()
 
+/*
 void oxGame() {
 	char strNumber[11] = "0123456789";
 	char chPlayer = '0';
 	char chResult;
 	int nCount = 0;
 
-	while (TRUE) {
+	while (1) {
 		displayOX(strNumber);
 		if (chResult != '\0') break;  // escape condition
 
@@ -253,11 +261,9 @@ void displayOX(char strNumber[]) {
 	printf("\n");
 }  // display
 
-/*
 void playOX(char strNumber[]) {
 	strNumber[nNum] = player;
 }  // playOX
-*/
 
 char wincheck(char strNumber[]) {
 	char chReturn = '\0';
@@ -272,3 +278,4 @@ char wincheck(char strNumber[]) {
 	else chReturn = '\0';
 	return chReturn;
 }  // winCheck
+*/
