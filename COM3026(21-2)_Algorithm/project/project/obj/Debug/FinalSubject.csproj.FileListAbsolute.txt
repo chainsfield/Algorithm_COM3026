@@ -1,0 +1,52 @@
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csprojAssemblyReference.cache
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.AssemblyReference.cache
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csprojAssemblyReference.cache
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csprojAssemblyReference.cache
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.pdb

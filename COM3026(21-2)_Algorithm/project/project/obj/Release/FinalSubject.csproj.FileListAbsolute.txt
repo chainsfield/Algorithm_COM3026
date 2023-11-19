@@ -1,0 +1,12 @@
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\bin\Release\SEOUL_NAMSAN.ttf
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\bin\Release\FinalSubject.exe.config
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\bin\Release\FinalSubject.exe
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\bin\Release\FinalSubject.pdb
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.Sub_Form.resources
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.Main_Form.resources
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.Properties.Resources.resources
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.ZoomForm.resources
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.csproj.GenerateResource.cache
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.exe
+C:\Users\sds\Desktop\FINALS~4 (2)\FinalSubject\obj\Release\FinalSubject.pdb
