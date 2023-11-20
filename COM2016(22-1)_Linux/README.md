@@ -11,6 +11,7 @@
 컴퓨터교육과 2018310678 신동수
 
 <img width="608" alt="image01" src="https://github.com/chainsfield/SKKU/assets/50831615/8c87fd7e-2c76-4ebe-851c-190e0d129470">
+ㄴ
 ![image02](https://github.com/chainsfield/SKKU/assets/50831615/3b3e1ed7-7ec5-4c62-ae35-79ebb0100a10)
 
 구현 및 코드 설명
