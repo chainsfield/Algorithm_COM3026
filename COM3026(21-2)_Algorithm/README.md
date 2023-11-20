@@ -1,6 +1,11 @@
-# SKKU
+# GFE: Gundam For Everyone 🤖
+C# WinForm을 활용한 건담 설계도 GUI 구현**
 
-2021년 2학기에 수강한 알고리즘(COM3026) 수업에서 진행한 GFE 프로젝트입니다.
+## 프로젝트 설명
+> - 개발 기간: 2021.10.12 ~ 2023.11.28
+> - 맡은 역할: 데이터 전처리, 내부 구현
+> - 기술 스택: C#
+> - 링크: https://github.com/chainsfield/SKKU/tree/main/COM3026(21-2)_Algorithm
 
 <img src="https://github.com/chainsfield/SKKU/assets/50831615/8552d99f-8616-4a2b-a861-91c5b53e487c.png" width="50%" height="50%"/>
 
