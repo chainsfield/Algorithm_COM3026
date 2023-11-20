@@ -9,7 +9,7 @@ C# WinForm을 활용한 건담 설계도 GUI 구현**
 
 <img src="https://github.com/chainsfield/SKKU/assets/50831615/8552d99f-8616-4a2b-a861-91c5b53e487c.png" width="50%" height="50%"/>
 
-알고리즘은 2021년 3월에 전역하고 2학기에 처음으로 들은 프로그래밍 수업이다.
+>알고리즘은 2021년 3월에 전역하고 2학기에 처음으로 들은 프로그래밍 수업이다.
 키보드를 다시 잡은지 얼마 지나지 않아 아직 감이 다 안 돌아온 상태였어서 고생을 많이 했었다.
 
 그때는 아직 Visual Studio Code를 잘 사용하지 않았던 시기라 Visual Studio를 사용하였다.
