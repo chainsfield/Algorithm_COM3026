@@ -10,8 +10,8 @@
 컴퓨터교육과 2018314985 박규남
 컴퓨터교육과 2018310678 신동수
 
-<img width="50%" alt="image01" src="https://github.com/chainsfield/SKKU/assets/50831615/8c87fd7e-2c76-4ebe-851c-190e0d129470">
-<img width="50$" alt="image02" src="https://github.com/chainsfield/SKKU/assets/50831615/f0d734bf-2772-4738-98e4-d448b3152313">
+<img width="50%" alt="image01" src="https://github.com/chainsfield/SKKU/assets/50831615/8c87fd7e-2c76-4ebe-851c-190e0d129470"><br>
+<img width="50%" alt="image02" src="https://github.com/chainsfield/SKKU/assets/50831615/f0d734bf-2772-4738-98e4-d448b3152313">
 
 구현 및 코드 설명
 - 전송할 때 패킷 크기를 8,192 bytes로 설정함
