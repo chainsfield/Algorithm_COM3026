@@ -1,3 +1,8 @@
-# SKKU
+# KBO Salary 
+기계학습을 활용한 KBO 선수 연봉 예측
 
-2023년 2학기에 수강한 기계학습입문(GCO2011) 프로젝트입니다.
+## 프로젝트 설명
+> - 개발 기간: 2023.09.27 ~ 2023.10.27
+> - 맡은 역할: 데이터 전처리, 시각화, 분석
+> - 기술 스택: Python
+> - 링크: https://github.com/chainsfield/SKKU/tree/main/GCO2011(23-2)_IntroML
