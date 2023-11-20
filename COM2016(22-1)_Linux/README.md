@@ -17,12 +17,7 @@
 |---|---|
 |서버|실행할 때 포트 번호와 파일 이름을 인자로 받음|
 |클라이언트|실행할 때 서버 IP와 포트 번호를 인자로 받음|
-
-서버
-getsockopt()으로 서버 입출력 버퍼 사이즈 확인 후 출력
-getsockopt(serv_sock, SOL_SOCKET, SO_SNDBUF, &bsize, (socklen_t *)&rn);
-getsockopt()으로 클라이언트 입출력 버퍼 사이즈 확인 후 출력
-getsockopt(clnt_sock, SOL_SOCKET, SO_SNDBUF, &bsize3, (socklen_t *)&rn3);
+|서버|getsockopt()으로 서버 입출력 버퍼 사이즈 확인 후 출력 <br> getsockopt(serv_sock, SOL_SOCKET, SO_SNDBUF, &bsize, (socklen_t *)&rn); <br> getsockopt()으로 클라이언트 입출력 버퍼 사이즈 확인 후 출력 <br> getsockopt(clnt_sock, SOL_SOCKET, SO_SNDBUF, &bsize3, (socklen_t *)&rn3);|
 
 클라이언트 | 연결 확인을 위한 message[]="Hello server“를 write()로 서버에 전송
 
