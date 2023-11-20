@@ -6,7 +6,7 @@
 > - 링크: https://github.com/chainsfield/SKKU/tree/main/COM2016(22-1)_Linux
 
 <img width="50%" alt="image01" src="https://github.com/chainsfield/SKKU/assets/50831615/8c87fd7e-2c76-4ebe-851c-190e0d129470">
-<br/>
+<br/><br/>
 <img width="50%" alt="image02" src="https://github.com/chainsfield/SKKU/assets/50831615/f0d734bf-2772-4738-98e4-d448b3152313">
 
 구현 및 코드 설명
