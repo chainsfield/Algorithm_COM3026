@@ -25,7 +25,7 @@ namespace FinalSubject
             privateFonts.AddFontFile("SEOUL_NAMSAN.ttf");
             Font font1 = new Font(privateFonts.Families[0], 14f);
 
-            string[] files = Directory.GetFiles(@"C:\GFE");
+            string[] files = Directory.GetFiles(@"..\GFE");
             imgList = files.Where(x => x.IndexOf(".jpg", StringComparison.OrdinalIgnoreCase) >= 0
                                     || x.IndexOf(".png", StringComparison.OrdinalIgnoreCase) >= 0)
 
@@ -198,7 +198,7 @@ namespace FinalSubject
 
             this.uiFlp_Thumnail.Controls.Clear();
             string filter = "*" + textBox1.Text + "*";
-            string[] files = Directory.GetFiles(@"C:\GFE", filter);
+            string[] files = Directory.GetFiles(@"..\GFE", filter);
             files.Reverse();
             imgList = files.Where(x => x.IndexOf(".jpg", StringComparison.OrdinalIgnoreCase) >= 0
                                     || x.IndexOf(".png", StringComparison.OrdinalIgnoreCase) >= 0)

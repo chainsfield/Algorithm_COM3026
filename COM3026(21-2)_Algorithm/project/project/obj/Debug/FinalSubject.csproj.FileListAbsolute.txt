@@ -50,3 +50,16 @@ C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubj
 C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
 C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.exe
 C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\bin\Debug\FinalSubject.exe.config
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\bin\Debug\FinalSubject.exe
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\bin\Debug\FinalSubject.pdb
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.csproj.AssemblyReference.cache
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.exe
+C:\Users\parkg\OneDrive\문서\GitHub\SKKU\COM3026(21-2)_Algorithm\project\project\obj\Debug\FinalSubject.pdb
