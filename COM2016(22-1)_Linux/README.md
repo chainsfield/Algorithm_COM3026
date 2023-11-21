@@ -1,9 +1,9 @@
-# 리눅스 TCP/IP 소켓 프로그래밍
-> **리눅스 기반 TCP/IP 프로토콜을 사용하는 파일 전송 시스템 구현**
-> - 개발 기간: 2022.05.14 ~ 2022.06.03
-> - 맡은 역할: 서버 구현, 클라이언트 구현
-> - 기술 스택: C
-> - 링크: https://github.com/chainsfield/SKKU/tree/main/COM2016(22-1)_Linux
+## ✉️ 리눅스 TCP/IP 소켓 프로그래밍
+**리눅스 기반 TCP/IP 프로토콜을 사용하는 파일 전송 시스템 구현**
+### 프로젝트 설명
+- 개발 기간: 2022.05.14 ~ 2022.06.03
+- 맡은 역할: 서버 구현, 클라이언트 구현
+- 기술 스택: C
 
 <img width="50%" alt="image01" src="https://github.com/chainsfield/SKKU/assets/50831615/8c87fd7e-2c76-4ebe-851c-190e0d129470">
 <br/><br/>
