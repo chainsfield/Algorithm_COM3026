@@ -1,4 +1,4 @@
-##🍿 MyMovieDB
+## 🍿 MyMovieDB
 - MySQL을 활용한 영화 정보 & 리뷰 사이트
 
 ### 프로젝트 설명
