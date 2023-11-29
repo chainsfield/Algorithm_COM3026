@@ -1,0 +1,65 @@
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csprojAssemblyReference.cache
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.AssemblyReference.cache
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\sds\Desktop\FinalSubject\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\source\repos\FinalSubject\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csprojAssemblyReference.cache
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Desktop\FinalSubject\FinalSubject\obj\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\FinalSubject.exe.config
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\bin\Debug\FinalSubject.pdb
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csprojAssemblyReference.cache
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.exe
+C:\Users\Seeschlacht\Documents\카카오톡 받은 파일\FINALS~4 (2)\FinalSubject\obj\Debug\FinalSubject.pdb
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\bin\Debug\SEOUL_NAMSAN.ttf
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\bin\Debug\FinalSubject.exe.config
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\bin\Debug\FinalSubject.exe
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\bin\Debug\FinalSubject.pdb
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.csproj.AssemblyReference.cache
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.Sub_Form.resources
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.Main_Form.resources
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.Properties.Resources.resources
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.ZoomForm.resources
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.csproj.GenerateResource.cache
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.csproj.CoreCompileInputs.cache
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.exe
+D:\SKKU\06. 2학년 2학기\알고리즘 [한옥영]\프로젝트\FINAL\FinalSubject\obj\Debug\FinalSubject.pdb
